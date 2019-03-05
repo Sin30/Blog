@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://sin30.me/sitemap.xml
